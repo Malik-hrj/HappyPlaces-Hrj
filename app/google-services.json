@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646359078962",
+    "firebase_url": "https://happy-place-hrj.firebaseio.com",
+    "project_id": "happy-place-hrj",
+    "storage_bucket": "happy-place-hrj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646359078962:android:3c4c3891f776715dbac42b",
+        "android_client_info": {
+          "package_name": "com.example.happyplaceshrj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646359078962-fp9etc3067f7fsek55lasqgaohrvhtlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.happyplaceshrj",
+            "certificate_hash": "62ec35cd1fa048e8fde94a954a3739d3f3c18af8"
+          }
+        },
+        {
+          "client_id": "646359078962-c4gr8jfbr3a7n9gg5e22m0evfi316cqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhzTb9B5bk2fpndNgz5mLu9DT3tP3gk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646359078962-c4gr8jfbr3a7n9gg5e22m0evfi316cqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
